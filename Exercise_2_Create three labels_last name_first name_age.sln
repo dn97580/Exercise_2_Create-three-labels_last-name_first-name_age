@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise_2_Create three labels_last name_first name_age", "Exercise_2_Create three labels_last name_first name_age.\Exercise_2_Create three labels_last name_first name_age.pyproj", "{EE2D1951-067D-4058-8992-1F924F844F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2D1951-067D-4058-8992-1F924F844F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2D1951-067D-4058-8992-1F924F844F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B0B97E-2960-4353-BD41-562381962366}
+	EndGlobalSection
+EndGlobal
